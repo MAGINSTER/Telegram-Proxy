@@ -3,6 +3,10 @@ import re
 from bs4 import BeautifulSoup
 from datetime import datetime
 
+def normalize(url):
+    """Приводим все ссылки к формату tg://proxy?..."""
+    return re.sub(r'^https?://t\.me/proxy\?', 'tg://proxy?', url)
+
 def fetch_proxies_from_channel(channel="ProxyMTProto"):
     url = f"https://t.me/s/{channel}"
     headers = {"User-Agent": "Mozilla/5.0"}
@@ -12,16 +16,17 @@ def fetch_proxies_from_channel(channel="ProxyMTProto"):
 
     all_proxies = set()
 
-    # Ищем ссылки tg://proxy прямо в атрибутах href
+    # Ищем ссылки tg://proxy и t.me/proxy в атрибутах href
     for a in soup.find_all("a", href=True):
         href = a["href"]
         if "tg://proxy" in href or "t.me/proxy" in href:
-            all_proxies.add(href)
+            all_proxies.add(normalize(href))
 
     # Также ищем в тексте сообщений (на случай если не кликабельные)
     text = soup.get_text()
-    pattern = r'tg://proxy\?[^\s\"\'\<\>]+'
-    all_proxies.update(re.findall(pattern, text))
+    pattern = r'(?:tg://proxy|https?://t\.me/proxy)\?[^\s\"\'\<\>]+'
+    for match in re.findall(pattern, text):
+        all_proxies.add(normalize(match))
 
     return all_proxies
 
