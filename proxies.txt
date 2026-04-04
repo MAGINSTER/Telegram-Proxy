@@ -1,11 +1,9 @@
-# Telegram Proxies — updated 2026-04-04 06:48 UTC
-# Total: 28
+# Telegram Proxies — updated 2026-04-04 07:42 UTC
+# Total: 26
 
 tg://proxy?server=107.175.189.200&port=8447&secret=554b3dd4c9d6fbbe2101c12765bb4229
 tg://proxy?server=116.203.0.182&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=143.110.179.199&port=443&secret=4f78efbe7db10d486caba4ea33862315
-tg://proxy?server=193.233.82.101&port=443&secret=78a76f41b4e0eb5399d78dce2cbd3504
-tg://proxy?server=193.233.82.134&port=443&secret=4428c7014df8c8251795fdd6f985ee7d
 tg://proxy?server=2.27.123.48&port=443&secret=eeb3948e1e74ad85969922925c56e9bf156d61696c2e7275
 tg://proxy?server=212.147.227.141&port=443&secret=dddf41156dfe75c54286615c14adf1d1b7
 tg://proxy?server=45.134.26.95&port=443&secret=ddd45515068fe04ed0ecf980a97417998e
