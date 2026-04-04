@@ -1,16 +1,19 @@
-# Telegram Proxies — updated 2026-04-04 15:21 UTC
-# Total: 23
+# Telegram Proxies — updated 2026-04-04 16:23 UTC
+# Total: 27
 
 tg://proxy?server=107.175.189.200&port=8447&secret=554b3dd4c9d6fbbe2101c12765bb4229
 tg://proxy?server=109.196.100.155&port=443&secret=ee41b666d84166bc6a8c6312498b5560f37777772e676f6f676c652e636f6d
 tg://proxy?server=116.203.0.182&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=13.63.160.17&port=80&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=2.27.23.23&port=8443&secret=f5a97ceadd1bbedd918fbd9f1c9387dd
 tg://proxy?server=212.147.227.141&port=443&secret=dddf41156dfe75c54286615c14adf1d1b7
 tg://proxy?server=49.13.35.164&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=64.188.65.63&port=443&secret=14f9b82c38f7cc3f9f938277dc6c6038
 tg://proxy?server=80.71.159.2&port=5443&secret=dd008284b818d619df19b536c67b20f4b7
+tg://proxy?server=84.201.175.172&port=443&secret=ddaa75a8a4ec212a73cc82adf60a53a01a
 tg://proxy?server=85.9.193.178&port=443&secret=ee7777772e676f6f676c652e636f6d9d
 tg://proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=api-fr2.eventcalendar.vip&port=443&secret=7kIwe1EPm6RkUMwb2paPzz13d3cuZ29vZ2xlLmNvbQ
 tg://proxy?server=linkera.948141.xyz&port=1337&secret=dd26b68f6bd3fe200284f654574260f09b
 tg://proxy?server=o6xodum.duckdns.org&port=1488&secret=ee494c3d5858be223fcbb9970d8bf05a036d6f746f76736b696b682e7275
 tg://proxy?server=proxium.rest&port=443&secret=a665a45920422f9d417e4867efdc4fb8
@@ -19,6 +22,7 @@ tg://proxy?server=proxydazhenaparkovke.site&port=443&secret=dde8aa2e8c1ad50570b7
 tg://proxy?server=proxyobhod.online&port=443&secret=71c30cc28759e0a10b6de5b471d69751
 tg://proxy?server=proxytelega.store&port=443&secret=5d41402abc4b2a76b9719d911017c592
 tg://proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b0282f2f435e7
+tg://proxy?server=prx.today&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
 tg://proxy?server=prxygo.shop&port=443&secret=48181acd22b3edaebc8a447868a7dfcb
 tg://proxy?server=prxyhub.click&port=443&secret=9f27410725ab8ab84ed17daf14723236
 tg://proxy?server=rkn.tg&port=1337&secret=dda2d3fa639a6ddcf8d6d1c5913d001531
