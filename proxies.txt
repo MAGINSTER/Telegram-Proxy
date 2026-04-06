@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-04-06 19:44 UTC
-# Total: 39
+# Telegram Proxies — updated 2026-04-06 20:29 UTC
+# Total: 38
 
 tg://proxy?server=141.98.6.192&port=443&secret=ee2c7dab3c75adbe7da5d466f44ee2bc4a78702e6170706c652e636f6d
 tg://proxy?server=144.91.71.245&port=443&secret=ee0b2abbe3b912d1c71c2116af79ce7f03636c6f7564666c6172652e636f6d
@@ -20,23 +20,22 @@ tg://proxy?server=207.180.195.37&port=443&secret=eedfa08dad56087f585c3948423aba9
 tg://proxy?server=207.180.240.199&port=443&secret=eea53b6e987fc7b16bb71bff869731448e636c6f7564666c6172652e636f6d
 tg://proxy?server=207.180.253.71&port=443&secret=eea136023cfd26d54332adf93ccca90960636c6f7564666c6172652e636f6d
 tg://proxy?server=212.233.74.109&port=443&secret=eedb3fe4bf0ed595882e36d26015268f346d61782e7275
-tg://proxy?server=37.139.43.127&port=443&secret=eeb285acf6a421f66307553c586aadd6ad6d61782e7275
 tg://proxy?server=45.136.125.44&port=443&secret=7vDTLIF_JxbGno2vU4HEHEJ3d3cuZ29vZ2xlLmNvbQ
 tg://proxy?server=51.250.17.20&port=443&secret=0b40e95e35e50d449ea341aaeb375109
-tg://proxy?server=64.188.64.189&port=443&secret=b0834f5c52129b3de4fed01625bb8567
 tg://proxy?server=68.209.58.149&port=443&secret=7jFMSRrub9JuyovG5wb7BUJtYWlsLnJ1
 tg://proxy?server=84.201.169.90&port=443&secret=ee387cc39e6784d06b17cc32354e92bfe66164732e78352e7275
+tg://proxy?server=91.107.169.174&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=91.107.174.85&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=91.107.189.181&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=91.211.27.53&port=443&secret=7uN45EYygFV4NFxhacGKvgdjbG91ZGZsYXJlLmNvbQ
-tg://proxy?server=av.1.mtproto.ru&port=443&secret=7iERIiIzM0REVVVmZnd3iIhicm93c2VyLnlhbmRleC5jb20
-tg://proxy?server=cdn.skippnet.com&port=443&secret=ee0193f50c1645c3631c2b5dea79828fa563646e2e736b6970706e65742e636f6d
 tg://proxy?server=charlie.freetelega.me&port=8443&secret=eec2eec77016252e334767f27d5b208fb27265672e7275
 tg://proxy?server=clickproxy.online&port=443&secret=ee79612e7275e8e3100d7adf36efa572
 tg://proxy?server=de1.kael.fuckrkn.net&port=443&secret=ee1a499af9a7a18282da82e30714402e157777772e6165726f666c6f742e7275
 tg://proxy?server=gate-nl.malenia.space&port=5090&secret=7901a92091343716acb093c5a304a3d9
 tg://proxy?server=mir.n3o.ooo&port=4444&secret=00000044004004000000400040000000
 tg://proxy?server=proxy-tube.duckdns.org&port=443&secret=ee47d8b029af97e26480fccc7ab5cf83a170726f78792d747562652e6475636b646e732e6f7267
-tg://proxy?server=proxydazhenaparkovke.site&port=443&secret=dde8aa2e8c1ad50570b7d6fe7e0ba3d677
 tg://proxy?server=proxytelega.store&port=443&secret=5d41402abc4b2a76b9719d911017c592
 tg://proxy?server=prx.today&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
 tg://proxy?server=psql.s1nqq.fun&port=5432&secret=0e5360aecceecd4c27f7acd6aa79a7d5
+tg://proxy?server=rkn.tg&port=1337&secret=dda2d3fa639a6ddcf8d6d1c5913d001531
 tg://proxy?server=tgproxy.akter-black.com&port=443&secret=7rT1O880qyLkS87oCTEy0C50Z3Byb3h5LmFrdGVyLWJsYWNrLmNvbQ
