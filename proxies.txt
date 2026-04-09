@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-04-09 10:03 UTC
-# Total: 25
+# Telegram Proxies — updated 2026-04-09 11:45 UTC
+# Total: 26
 
 tg://proxy?server=109.120.180.194&port=443&secret=89eb10e2a1362ba63987cb8d627fb427
 tg://proxy?server=138.124.32.130&port=443&secret=f36a968b7b96f0e406d535aaccd7c3a7
@@ -13,9 +13,11 @@ tg://proxy?server=49.12.117.37&port=443&secret=dd104462821249bd7ac519130220c25d0
 tg://proxy?server=5.75.218.189&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=72.62.150.190&port=2053&secret=7a16ad3840d31414dcb461b22fe5b200
 tg://proxy?server=78.47.67.183&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=82.208.20.149&port=443&secret=eeecd9eafc5070fb91da9b529a305a92b5636c6f7564666c6172652e636f6d
 tg://proxy?server=82.208.21.114&port=443&secret=ee5bd447d48aa948351cd8c6a85f7a7507636c6f7564666c6172652e636f6d
+tg://proxy?server=89.117.61.69&port=443&secret=ee95fb4a16ad98a42f4ccabc6a0c5cf548636c6f7564666c6172652e636f6d
 tg://proxy?server=95.85.248.235&port=443&secret=3e62c19547064a69f1a5814fab84e3df
-tg://proxy?server=bound9.techlibrary.ink&port=4501&secret=eebe7b92224e463a0e2899b7420daa4ca3626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=bestproxy.ink&port=443&secret=ee7d793037a0760186574b0282f2f435e762657374696e6b2e74657374
 tg://proxy?server=my.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
 tg://proxy?server=obhod.wearvpn.online&port=443&secret=eed535581418ca0f4c1c7707a406db91d079616e6465782e7275
 tg://proxy?server=proxium.rest&port=443&secret=a665a45920422f9d417e4867efdc4fb8
@@ -25,4 +27,3 @@ tg://proxy?server=s2.neo-trading.org&port=443&secret=ee50a0c99bdb7370565b7d74d4d
 tg://proxy?server=s3.neo-trading.org&port=443&secret=eec3fefd89a25d37ca3af1a602c7bfd8de79612e7275
 tg://proxy?server=s4.neo-trading.org&port=443&secret=ee181e2ad5e63c27262781187f2dedc4bb79612e7275
 tg://proxy?server=tlg.shadeproxy.ru&port=443&secret=dd9c19f63098a0e4f32bb78cfd3c573373
-tg://proxy?server=voice.techlibrary.ink&port=4501&secret=eef4eb80f871f1417b706f87af8c76eaf4626973636f7474692e79656b74616e65742e636f6d
