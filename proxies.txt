@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-04-13 01:30 UTC
-# Total: 29
+# Telegram Proxies — updated 2026-04-13 04:50 UTC
+# Total: 30
 
 tg://proxy?server=116.203.0.182&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=138.124.84.170&port=8443&secret=9c1f3054d7d235936dd814fef1629959
@@ -17,6 +17,7 @@ tg://proxy?server=49.13.35.164&port=8443&secret=dd104462821249bd7ac519130220c25d
 tg://proxy?server=5.75.219.242&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=95.216.178.41&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=cloudflare.modirpodir.ir&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=connect.rebelworldwide.online&port=2096&secret=0b4b570140af218753e8980c963f091a
 tg://proxy?server=flint3de6-c07c0599.proxytg.ink&port=443&secret=a8e84b0bdd918ad1aa18e8380b24690a
