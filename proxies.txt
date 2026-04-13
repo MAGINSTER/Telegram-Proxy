@@ -1,9 +1,8 @@
-# Telegram Proxies — updated 2026-04-13 17:52 UTC
+# Telegram Proxies — updated 2026-04-13 19:00 UTC
 # Total: 24
 
 tg://proxy?server=150.241.92.222&port=443&secret=ee549ac3e70a17583a7efa04f35bf40cf579616e6465782e7275
 tg://proxy?server=158.220.100.132&port=443&secret=ee37e7aad9447c88cd9421a1916f2147fd636c6f7564666c6172652e636f6d
-tg://proxy?server=194.163.166.59&port=443&secret=ee8441047534900cf5d61df8b4e07b7c78636c6f7564666c6172652e636f6d
 tg://proxy?server=194.163.170.186&port=443&secret=ee6563b226ac5c6c3959481f1605f442f9636c6f7564666c6172652e636f6d
 tg://proxy?server=194.76.217.255&port=80&secret=8a48b3ec59a5c6f781604bc60907b228
 tg://proxy?server=5.22.212.131&port=443&secret=dd59f5e4be6d8552266f38accfc9f7ff85
@@ -19,6 +18,7 @@ tg://proxy?server=mtproto-fi1.nolimited.space&port=443&secret=ee297e5222c6724bb7
 tg://proxy?server=my.ciaowner.lol&port=443&secret=ee08e08c9ea9937d982d8d864406a0cddb6d792e6369616f776e65722e6c6f6c
 tg://proxy?server=oneproxys.best&port=443&secret=eed68360458af63073bac1394e8c7a48da6f6e6570726f7879732e62657374
 tg://proxy?server=proxy.neuropath.ru&port=12443&secret=df3f51f0829b2dc3e1ec6ad5161c94ee
+tg://proxy?server=proxyg.site&port=443&secret=eed68360458af63073bac1394e8c7a48da70726f7879672e73697465
 tg://proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b0282f2f435e7
 tg://proxy?server=prxyhub.click&port=443&secret=9f27410725ab8ab84ed17daf14723236
 tg://proxy?server=prxyhub.click&port=443&secret=eed68360458af63073bac1394e8c7a48da707278796875622e636c69636b
