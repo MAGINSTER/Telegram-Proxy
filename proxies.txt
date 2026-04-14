@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-04-14 16:54 UTC
-# Total: 21
+# Telegram Proxies — updated 2026-04-14 17:57 UTC
+# Total: 22
 
 tg://proxy?server=150.241.65.206&port=443&secret=ee903703943e487a63dccbf1d654a7417d6d792e6369616f776e65722e6c6f6c&comment=xxx
 tg://proxy?server=213.226.124.186&port=443&secret=ee3b263e234adb9ea98fca40a0ec907d807777772e636c6f7564666c6172652e636f6d
@@ -7,11 +7,12 @@ tg://proxy?server=213.232.204.27&port=443&secret=ee78b79b63fea647558240b178cf5a9
 tg://proxy?server=31.58.137.124&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
 tg://proxy?server=84.201.181.143&port=8443&secret=eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6676f6f676c652e636f6d
 tg://proxy?server=91.108.189.184&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
-tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=bestproxy.ink&port=443&secret=eed68360458af63073bac1394e8c7a48da6265737470726f78792e696e6b
 tg://proxy?server=free-nl.kimt.space&port=443&secret=ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365
+tg://proxy?server=free.kimt.space&port=443&secret=ee6d308bbd1b3b1fae56e334750ecf2f606164732e78352e7275
 tg://proxy?server=freetg.vip&port=8443&secret=ee27b79b6bde1c9e19eb4707c81e8b1137636c6f7564666c6172652e636f6d
 tg://proxy?server=godslove.duckdns.org&port=443&secret=ee574297036dd8fbe56d3875e39f18aae67777772e636c6f7564666c6172652e636f6d683373616d2e73697465
+tg://proxy?server=insnapp.space&port=2053&secret=eeaac85835fb7d25b992ea0416b2ede075696e736e6170702e7370616365
 tg://proxy?server=mtproto.ONLINE&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275
 tg://proxy?server=mtproto.proxysoxy.com&port=8443&secret=eefd77b826e7505c142dc24f4fd87ee42c65682e766b2e636f6d
 tg://proxy?server=neth1.agera-connect.lol&port=443&secret=63ebfcafad3291239d6f94ec57ea5c38
