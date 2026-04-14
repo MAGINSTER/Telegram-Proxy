@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-04-14 04:38 UTC
-# Total: 28
+# Telegram Proxies — updated 2026-04-14 06:25 UTC
+# Total: 25
 
 tg://proxy?server=150.241.92.222&port=443&secret=ee549ac3e70a17583a7efa04f35bf40cf579616e6465782e7275
 tg://proxy?server=158.220.100.132&port=443&secret=ee37e7aad9447c88cd9421a1916f2147fd636c6f7564666c6172652e636f6d
@@ -7,7 +7,6 @@ tg://proxy?server=194.163.170.186&port=443&secret=ee6563b226ac5c6c3959481f1605f4
 tg://proxy?server=194.76.217.255&port=80&secret=8a48b3ec59a5c6f781604bc60907b228
 tg://proxy?server=195.58.49.107&port=443&secret=ee1837e5b269e51c29a26d41dce60a46e16170692e79616e6465782e7275
 tg://proxy?server=5.22.212.131&port=443&secret=dd59f5e4be6d8552266f38accfc9f7ff85
-tg://proxy?server=81.27.110.238&port=443&secret=dd2cfe6040c9e219057ccbe198f209f74d
 tg://proxy?server=91.107.169.174&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=91.107.174.85&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=91.107.189.181&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -19,8 +18,6 @@ tg://proxy?server=ee.vdl.lat&port=443&secret=ee1a21752bd8823f6d2e7ac3642f2608ac6
 tg://proxy?server=fi.tg.blook.red&port=443&secret=4634d8605673b722d19b11a45e34a1db
 tg://proxy?server=free.dedus.pro&port=443&secret=eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275
 tg://proxy?server=he.de-nu.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=he.fi.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
-tg://proxy?server=mtproto-fi1.nolimited.space&port=443&secret=ee297e5222c6724bb78c63cb38bc059eed6170692d6d6170732e79616e6465782e7275
 tg://proxy?server=my.ciaowner.lol&port=443&secret=ee08e08c9ea9937d982d8d864406a0cddb6d792e6369616f776e65722e6c6f6c
 tg://proxy?server=oneproxys.best&port=443&secret=eed68360458af63073bac1394e8c7a48da6f6e6570726f7879732e62657374
 tg://proxy?server=proxy.neuropath.ru&port=12443&secret=df3f51f0829b2dc3e1ec6ad5161c94ee
