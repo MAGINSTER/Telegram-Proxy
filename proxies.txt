@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-04-17 01:27 UTC
+# Telegram Proxies — updated 2026-04-17 04:41 UTC
 # Total: 31
 
 tg://proxy?server=178.104.195.205&port=54921&secret=ee104462821249bd7ac519130220c25d096d61782e7275
@@ -25,9 +25,9 @@ tg://proxy?server=mtp.xode.top&port=443&secret=eede18609544eb7fa267cf94735d320ac
 tg://proxy?server=news1704.mtproxygram.lol&port=443&secret=ee608248722a8f45103ed03c7994abf9b062726f777365722e79616e6465782e636f6d
 tg://proxy?server=poll1704.mtproxygram.lol&port=443&secret=eec39eef5b0ab34eb882b893c156b4c14a62726f777365722e79616e6465782e636f6d
 tg://proxy?server=proxy-sosavpn1.duckdns.org&port=8443&secret=bfb77f1c4bf8a5c16eb5a3c83954ce69
-tg://proxy?server=proxyg.site&port=443&secret=eed68360458af63073bac1394e8c7a48da70726f7879672e73697465
 tg://proxy?server=proxyrknsosatb.site&port=443&secret=eed68360458af63073bac1394e8c7a48da70726f7879726b6e736f736174622e73697465
 tg://proxy?server=proxystepa.site&port=443&secret=eed68360458af63073bac1394e8c7a48da70726f787973746570612e73697465
+tg://proxy?server=prx.today&port=443&secret=eeb3f0c7f6af7dc2dc2e9c80d0d80e81627a65726f2e6c6f63616c
 tg://proxy?server=red.coolsystem.xyz&port=1337&secret=dd123451234512345123451234512345ff
 tg://proxy?server=rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=tg.rkn.guru&port=443&secret=eea9785d14b6e7254af5086de9d92945e574672e726b6e2e67757275
