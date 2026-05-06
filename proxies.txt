@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-05-06 15:21 UTC
-# Total: 20
+# Telegram Proxies — updated 2026-05-06 17:21 UTC
+# Total: 19
 
 tg://proxy?server=144.31.167.194&port=443&secret=ee52af82771595b7d7e9eeeda3a7aa4f1a77622e7275
 tg://proxy?server=154.86.119.84&port=8443&secret=ee8839155c11a57823772ed5508a89fc106e6c30312e737062657965732e636f6d
@@ -15,9 +15,8 @@ tg://proxy?server=getfastlink.click&port=443&secret=ee47e3a8b2c1f4e9d0a6b5c8d7e4
 tg://proxy?server=i-love-femboys.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=linkflowhub.shop&port=443&secret=ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70
 tg://proxy?server=magic-networks.ru&port=2083&secret=4931e9e6000537266a0de4dbb81f81fa
-tg://proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c6888366f26b12f994f02ecf1a
+tg://proxy?server=mtp.ascel.la&port=8443&secret=dd5a168da5855fbccf12ccba3e0c4df359
 tg://proxy?server=skill-issue.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=tg.fi.coconutstrip.co&port=443&secret=ee6d2863461800ee99ef94c7ddcc761d0e79612e7275
 tg://proxy?server=theoriginalproxies-5.com&port=443&secret=ee722ba6ba8dca2a31690a58c3a3223e2f7777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d
-tg://proxy?server=wow.etherealvpn.uk&port=443&secret=eeafb51059be4e6d73ec385bf2235406fa706574726f766963682e7275
