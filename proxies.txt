@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-05-07 19:25 UTC
-# Total: 26
+# Telegram Proxies — updated 2026-05-07 20:57 UTC
+# Total: 25
 
 tg://proxy?server=193.23.199.57&port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d
 tg://proxy?server=193.233.139.92&port=443&secret=eede9514d46c8d152452b6de4879c15299706574726f766963682e7275
@@ -14,10 +14,9 @@ tg://proxy?server=89.125.113.155&port=443&secret=ee67af7b545eb72c3c47fc2ccb74aa4
 tg://proxy?server=89.125.113.189&port=443&secret=ee19835aa301cd9a6ceb68ad8d5ad9e0ac79616e6465782e7275
 tg://proxy?server=de.xomodz.fit&port=853&secret=ee78a3039828ea09d09f328b2590943c6564652e786f6d6f647a2e666974
 tg://proxy?server=dedicated.love.mambabot.net&port=4515&secret=ee33b4081c23579f7d6ca619d38baf0b46626973636f7474692e79656b74616e65742e636f6d
-tg://proxy?server=getfastlink.click&port=443&secret=ee47e3a8b2c1f4e9d0a6b5c8d7e4f3a2b1676574666173746c696e6b2e636c69636b
+tg://proxy?server=espress0-macch1ato-p0r-favor3.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=grin-idle.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=html.geo-cdn.ru&port=443&secret=ee79e344818749bd7ac519130220c25d09
-tg://proxy?server=i-love-hse.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=one.turboproxy.pro&port=443&secret=ee74e2e117f2160c55370f68df7381d5d361657a612e7275
 tg://proxy?server=owner-explain.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=quickrouteapp.xyz&port=443&secret=7n5PHIs9Kl6cbwtNihxefytxdWlja3JvdXRlYXBwLnh5eg
